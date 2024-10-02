@@ -1,7 +1,7 @@
 # IITB RISC Pipelined Processor
 
 ## Overview
-A fully functional RISC based processor design based in IITB RISC whose ISA is provided below. IITB RISC is a8 - register, 16-bit architecture using 6 stage pipelined implementation. These stages are as follows, Instruction fetch, instruction decode, register read, execute, memory access, and write back. It also includes hazard mitigation techniques like data forwarding.
+A fully functional RISC based processor design based in IITB RISC whose ISA is provided below. IITB RISC is a 8 - register, 16-bit architecture using 6 stage pipelined implementation. These stages are as follows, Instruction fetch, instruction decode, register read, execute, memory access, and write back. It also includes hazard mitigation techniques like data forwarding.
 [Report](https://github.com/ShubhamBirange/iitb_risc_pipelined/blob/main/docs/report.pdf)
 
 A multi cycle implementation of the same [here](https://github.com/ShubhamBirange/iitb_risc)
