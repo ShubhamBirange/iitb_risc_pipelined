@@ -7,6 +7,13 @@ A fully functional RISC based processor design based in IITB RISC whose ISA is p
 A multi cycle implementation of the same [here](https://github.com/ShubhamBirange/iitb_risc)
 
 <p align="center">
+  <img src="https://github.com/ShubhamBirange/iitb_risc_pipelined/blob/main/docs/isa.jpg?raw=true" alt="IITB RISC ISA" title="IITB RISC ISA" width="80%"/>
+</p>
+<p align="center">
+    <em>IITB RISC ISA</em>
+</p>
+
+<p align="center">
   <img src="https://github.com/ShubhamBirange/iitb_risc_pipelined/blob/main/docs/dataflow.png?raw=true" alt="Dataflow" title="Dataflow" width="100%"/>
 </p>
 <p align="center">
